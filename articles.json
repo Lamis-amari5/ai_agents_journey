@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "What is DNA?",
+    "text": "DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms. Nearly every cell in a person's body has the same DNA. Most DNA is located in the cell nucleus (where it is called nuclear DNA), but a small amount of DNA can also be found in the mitochondria. The information in DNA is stored as a code made up of four chemical bases: adenine (A), guanine (G), cytosine (C), and thymine (T). Human DNA consists of about 3 billion bases, and more than 99 percent of those bases are the same in all people."
+  },
+  {
+    "id": 2,
+    "title": "CRISPR Gene Editing",
+    "text": "CRISPR-Cas9 is a genome editing tool that is creating a buzz in the science world. It is faster, cheaper, more accurate, and more efficient than other existing genome editing methods. CRISPR-Cas9 was adapted from a naturally occurring genome editing system in bacteria. The bacteria capture snippets of DNA from invading viruses and use them to create DNA segments known as CRISPR arrays. The CRISPR arrays allow the bacteria to remember the viruses. If the viruses attack again, the bacteria produce RNA segments from the CRISPR arrays to target the viruses DNA. The bacteria then use Cas9 to cut the DNA apart, which disables the virus."
+  },
+  {
+    "id": 3,
+    "title": "Machine Learning Basics",
+    "text": "Machine learning is a method of data analysis that automates analytical model building. It is based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Machine learning algorithms are trained on data sets to create models that can perform tasks such as classification, regression, clustering, and more. Deep learning is a subset of machine learning that uses neural networks with many layers to learn representations of data with multiple levels of abstraction."
+  }
+]

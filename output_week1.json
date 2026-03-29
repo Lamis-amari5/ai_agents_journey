@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "What is DNA?",
+    "original_length": 99,
+    "summary": "DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms. Most DNA is located in the cell nucleus, but a small amount can also be found in the mitochondria. Human DNA consists of about 3 billion bases, and more than 99 percent of those bases are the same in all people.",
+    "summary_length": 56
+  },
+  {
+    "id": 2,
+    "title": "CRISPR Gene Editing",
+    "original_length": 105,
+    "summary": "CRISPR-Cas9 was adapted from a naturally occurring genome editing system in bacteria. The bacteria capture snippets of DNA from invading viruses and use them to create DNA segments known as CRISPR arrays. If the viruses attack again, the bacteria produce RNA segments to target the viruses DNA.",
+    "summary_length": 47
+  },
+  {
+    "id": 3,
+    "title": "Machine Learning Basics",
+    "original_length": 81,
+    "summary": "Machine learning is a method of data analysis that automates analytical model building. It is based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Machine learning algorithms are trained on data sets to create models that can perform tasks such as classification, regression and clustering.",
+    "summary_length": 55
+  }
+]
