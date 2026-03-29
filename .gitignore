@@ -1,0 +1,12 @@
+# Secret files — never push these
+.env
+
+# Python virtual environment — too large for GitHub
+venv/
+
+# Python cache files — not needed
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
